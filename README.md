@@ -1,2 +1,2 @@
 # Coursera-Web_design_specialization
-I am including the final accepted project code for Introduction to html 5 on coursera.
+I am including all the assignments that I have submitted for the Coursera.
