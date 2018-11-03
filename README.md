@@ -5,6 +5,10 @@ Introduction to HTML-->
 Final Project
 
 Introduction to CSS-->
-Week-1-Assignment
-Week-2-Assignment
-Week-4-Assignment
+Week-1-Assignment;
+Week-2-Assignment;
+Week-4-Assignment;
+
+Interactivity with Javascript-->
+Week-2-Assignment;
+Week-4-Assignment;
